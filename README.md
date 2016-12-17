@@ -15,7 +15,7 @@ It is still a work in progress to copy all of its API endpoints.
 
 1. Fork/Clone/Download this repo
 
-    git clone https://github.com/LevPasha/Instagram-API-python.git
+        git clone https://github.com/LevPasha/Instagram-API-python.git
 
 
 2. Navigate to the directory
