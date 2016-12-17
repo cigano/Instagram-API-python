@@ -15,17 +15,17 @@ It is still a work in progress to copy all of its API endpoints.
 
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/LevPasha/Instagram-API-python.git`
+    git clone https://github.com/LevPasha/Instagram-API-python.git
 
 
 2. Navigate to the directory
 
-    `cd Instagram-API-python`
+    cd Instagram-API-python
 
 
 3. Install the dependencies
 
-    `https://github.com/LevPasha/Instagram-API-python.git`
+    pip install -r dependencies.txt
 
 
 4. Modify test.py with your own username and password
@@ -33,7 +33,7 @@ It is still a work in progress to copy all of its API endpoints.
 
 5. Run the test script
 
-    `python test.py`
+    python test.py
     
 
 ### Now InstagramAPI.py can:
