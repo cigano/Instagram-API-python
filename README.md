@@ -20,20 +20,20 @@ It is still a work in progress to copy all of its API endpoints.
 
 2. Navigate to the directory
 
-    cd Instagram-API-python
+        cd Instagram-API-python
 
 
 3. Install the dependencies
 
-    pip install -r dependencies.txt
+        pip install -r dependencies.txt
 
 
-4. Modify test.py with your own username and password
+4. Modify `test.py` with your own username and password
 
 
 5. Run the test script
 
-    python test.py
+        python test.py
     
 
 ### Now InstagramAPI.py can:
